@@ -54,7 +54,7 @@ public class DataSource {
         mPhotoHdPool.add(R.drawable.steve_hd_7);
         mPhotoHdPool.add(R.drawable.steve_hd_8);
         mPhotoHdPool.add(R.drawable.steve_hd_9);
-        mPhotoHdPool.add(R.drawable.apple_hd);
+        mPhotoHdPool.add(R.drawable.steve_hd_10);
     }
     public int getDataSourceLength() {
         return mPhotoPool.size();

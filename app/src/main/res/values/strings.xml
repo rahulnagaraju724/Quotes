@@ -5,16 +5,16 @@
     <string name="quote_3">People don\'t know what they want until you show it to them.</string>
     <string name="quote_4">The only way to be truly satisfied is to do what you believe is great work.</string>
     <string name="quote_5">That\'s been one of my mantras -- focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it\'s worth it in the end because once you get there, you can move mountains.</string>
-<!--    <string name="quote_6">Great things in business are never done by one person, they\'re done by a team of people.</string>-->
-<!--    <string name="quote_7">You can\'t connect the dots looking forward; you can only connect them looking backward.</string>-->
-<!--    <string name="quote_8">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.</string>-->
-<!--    <string name="quote_9">I\'m the only person I know that\'s lost a quarter of a billion dollars in one year. ... It\'s very character-building.</string>-->
-<!--    <string name="quote_10">It\'s more fun to be a pirate than join the Navy.</string>-->
+    <!--    <string name="quote_6">Great things in business are never done by one person, they\'re done by a team of people.</string>-->
+    <!--    <string name="quote_7">You can\'t connect the dots looking forward; you can only connect them looking backward.</string>-->
+    <!--    <string name="quote_8">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.</string>-->
+    <!--    <string name="quote_9">I\'m the only person I know that\'s lost a quarter of a billion dollars in one year. ... It\'s very character-building.</string>-->
+    <!--    <string name="quote_10">It\'s more fun to be a pirate than join the Navy.</string>-->
     <string name="quote_6">To know, is to know that you know nothing. That is the meaning of true knowledge.</string>
-    <string name="quote_6"></string>
-    <string name="quote_6"></string>
-    <string name="quote_6"></string>
-    <string name="quote_6"></string>
+    <string name="quote_7">Good teachers make the best of a pupil\'s means; great teachers foresee a pupil\'s ends.</string>
+    <string name="quote_8">As a young boy, I was taught in high school that hacking was cool.</string>
+    <string name="quote_9">Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</string>
+    <string name="quote_10">I make the best Spanish omelettes in the world, but I won\'t tell you the recipe!</string>
 
 
 </resources>
