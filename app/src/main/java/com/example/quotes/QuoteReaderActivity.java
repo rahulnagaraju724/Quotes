@@ -71,6 +71,8 @@ public class QuoteReaderActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quote_reader);
 
+        System.out.println("Here");
+
         ListView mListView = findViewById(R.id.quotes_list);
         mListView.setAdapter(new QuoteAdapter(this));
         mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -78,6 +80,7 @@ public class QuoteReaderActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView arg0, View arg1, int
                     position, long arg3) {
+                System.out.println("Clicked");
                 Intent i = new Intent(QuoteReaderActivity.this,
                         QuoteDetail.class);
                 i.putExtra("position", position);
